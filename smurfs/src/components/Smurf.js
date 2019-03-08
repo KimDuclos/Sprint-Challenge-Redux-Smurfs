@@ -6,6 +6,7 @@ import { connect } from 'react-redux';
 // import Delete from './Delete';
 
 class Smurf extends Component {
+    // eslint-disable-next-line
     constructor(props) {
         super(props);
     }
